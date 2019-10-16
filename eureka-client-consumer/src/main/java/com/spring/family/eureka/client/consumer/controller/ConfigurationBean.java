@@ -1,4 +1,4 @@
-package com.spring.family.eureka.client.controller;
+package com.spring.family.eureka.client.consumer.controller;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

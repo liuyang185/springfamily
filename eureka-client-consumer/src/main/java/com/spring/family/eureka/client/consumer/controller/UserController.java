@@ -1,4 +1,4 @@
-package com.spring.family.eureka.client.controller;
+package com.spring.family.eureka.client.consumer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
